@@ -1,21 +1,57 @@
-//
-//  ___FILENAME___
-//  ___PROJECTNAME___
-//
-//  Created by ___FULLUSERNAME___ on ___DATE___.
-//___COPYRIGHT___
-//
+/*******************************************************************************
+ # File        : ___FILENAME___
+ # Project     : ___PROJECTNAME___
+ # Author      : ___FULLUSERNAME___
+ # Created     : ___DATE___
+ # Corporation : 成都好房通科技股份有限公司
+ # Description :
+ <#Description Logs#>
+ -------------------------------------------------------------------------------
+ # Date        : <#Change Date#>
+ # Author      : <#Change Author#>
+ # Notes       :
+ <#Change Logs#>
+ ******************************************************************************/
 
 #import "___FILEBASENAME___.h"
 
+@interface ___FILEBASENAMEASIDENTIFIER___ ()
+
+@end
+
 @implementation ___FILEBASENAMEASIDENTIFIER___
 
-/*
-// Only override drawRect: if you perform custom drawing.
-// An empty implementation adversely affects performance during animation.
-- (void)drawRect:(CGRect)rect {
-    // Drawing code
+#pragma mark - 初始化
+- (instancetype)initWithFrame:(CGRect)frame {
+    self = [super initWithFrame:frame];
+    if (self) {
+        // 初始化默认数据
+        [self createDefaultData];
+        // 初始化界面
+        [self createUI];
+        // 布局界面
+        [self createConstraints];
+    }
+    return self;
 }
-*/
+
+#pragma mark - 初始化默认数据
+- (void)createDefaultData {
+    
+}
+
+#pragma mark - 初始化界面
+- (void)createUI {
+    
+}
+
+#pragma mark - 布局界面
+- (void)createConstraints {
+    __weak typeof(self) weakSelf = self;
+    
+}
+
+#pragma mark ----------------------------公用方法-----------------------------
+
 
 @end
