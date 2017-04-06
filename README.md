@@ -1,0 +1,1 @@
+# Cocoa-Touch-Class.xctemplate
