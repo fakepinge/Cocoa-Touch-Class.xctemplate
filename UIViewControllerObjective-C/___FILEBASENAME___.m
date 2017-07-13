@@ -7,13 +7,15 @@
  # Description :
  <#Description Logs#>
  -------------------------------------------------------------------------------
- # Date        : <#Change Date#>
- # Author      : <#Change Author#>
+ # Date        : ___DATE___
+ # Author      : ___FULLUSERNAME___
  # Notes       :
  <#Change Logs#>
  ******************************************************************************/
 
 #import "___FILEBASENAME___.h"
+#import "BlocksKit+UIKit.h"
+#import "Masonry.h"
 
 @interface ___FILEBASENAMEASIDENTIFIER___ ()
 

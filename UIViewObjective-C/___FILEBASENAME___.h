@@ -7,8 +7,8 @@
  # Description :
  <#Description Logs#>
  -------------------------------------------------------------------------------
- # Date        : <#Change Date#>
- # Author      : <#Change Author#>
+ # Date        : ___DATE___
+ # Author      : ___FULLUSERNAME___
  # Notes       :
  <#Change Logs#>
  ******************************************************************************/
