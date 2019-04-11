@@ -49,7 +49,6 @@
 
 #pragma mark - 布局界面
 - (void)createConstraints {
-    __weak typeof(self) weakSelf = self;
     
 }
 

@@ -14,8 +14,6 @@
  ******************************************************************************/
 
 #import "___FILEBASENAME___.h"
-#import "BlocksKit+UIKit.h"
-#import "Masonry.h"
 
 @interface ___FILEBASENAMEASIDENTIFIER___ ()
 

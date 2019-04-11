@@ -14,8 +14,6 @@
  ******************************************************************************/
 
 #import "___FILEBASENAME___.h"
-#import "BlocksKit+UIKit.h"
-#import "Masonry.h"
 
 @interface ___FILEBASENAMEASIDENTIFIER___ ()
 
@@ -54,7 +52,6 @@
 
 #pragma mark - 布局界面
 - (void)createConstraints {
-    __weak typeof(self) weakSelf = self;
     
 }
 
